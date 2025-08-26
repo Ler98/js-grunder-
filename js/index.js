@@ -169,4 +169,11 @@ if (a = 5);
 
 console.log(a == b);
 
+
+//test inför skola neråt
 let c = 7;
+
+console.log(c);
+
+let animal = ["cat", "dog", "bird"];
+console.log(animal[0]);
